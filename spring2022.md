@@ -13,15 +13,18 @@ subtitle:
     }
 </style>
 
-15 April, 2022
 
-**Title**: The Atiyah-Jänich Theorem
 
-**Speaker**: Mr. Satwata Hans, 5th Year BS-MS, IISER Kolkata
-
-<p style="text-align:justify">
-    <strong>Abstract</strong> : The space of Fredholm operators over a separable Hilbert space $\mathcal{H}$ has been an important area of study in Functional Analysis. It has gained more relevance over time due to the significant works of Sir Michael Atiyah and multiple other mathematicians, which have focused on various topological and geometric connections to the Fredholm operators. In this talk, we will see a famous theorem called the Atiyah-Jänich Theorem, which states that the space of Fredholm operators gives an alternate characterization of the $K$-Theory of any compact Hausdorff space.
-</p>
+<div id="AtyiahJanichTheorem">
+    <p>15 April, 2022</p>
+    <p><strong>Title: &nbsp;</strong>The Atiyah-Jänich Theorem</p>
+    <p>
+        <strong>Spekaer: &nbsp;</strong> Mr. Satwata Hans, 5th Year BS-MS, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> The space of Fredholm operators over a separable Hilbert space $\mathcal{H}$ has been an important area of study in Functional Analysis. It has gained more relevance over time due to the significant works of Sir Michael Atiyah and multiple other mathematicians, which have focused on various topological and geometric connections to the Fredholm operators. In this talk, we will see a famous theorem called the Atiyah-Jänich Theorem, which states that the space of Fredholm operators gives an alternate characterization of the K-Theory of any compact Hausdorff space.
+    </p>
+</div>
 
 ---
 

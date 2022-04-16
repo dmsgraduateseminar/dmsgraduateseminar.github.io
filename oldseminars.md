@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Old Seminers
+title: Old Seminars
 # subtitle: Why you'd want to go on a date with me
 ---
 

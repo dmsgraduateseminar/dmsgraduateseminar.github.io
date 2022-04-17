@@ -26,6 +26,10 @@ subtitle:
     </p>
 </div>
 
+ <p>
+    <a href="/assets/slides/GSS_Talk_satwata.pdf" target = "_blank">Slides</a>
+    </p>
+
 ---
 
 8 April, 2022

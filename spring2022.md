@@ -14,6 +14,23 @@ subtitle:
 </style>
 
 
+<div id="Laplacianspectra">
+    <p>29 April, 2022</p>
+    <p><strong>Title: &nbsp;</strong>The Laplacian spectra of Commuting Graphs</p>
+    <p>
+        <strong>Spekaer: &nbsp;</strong> Mr. Samiron Parui, PhD Student, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> The commuting graph associated with a group G is a graph with G as the set of vertices and there is an edge between two vertices if they commute in group G.
+        Here we describe the spectrum of the Laplacian matrix of the commuting graph associated with a finite group, using group theoretic information.
+    </p>
+</div>
+
+ <!-- <p>
+    <a href="/assets/slides/GSS_Talk_satwata.pdf" target = "_blank">Slides</a>
+    </p> -->
+
+---
 
 <div id="AtyiahJanichTheorem">
     <p>15 April, 2022</p>

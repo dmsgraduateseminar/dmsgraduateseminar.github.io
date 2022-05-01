@@ -76,9 +76,9 @@ subtitle:
     <strong>Abstract</strong> : Dimensionality reduction as a preprocessing step to machine learning is effective in removing irrelevant and redundant information, increasing learning accuracy, and improving result comprehensibility. The complexity of any classifier depends on the number of inputs. This determines both time and space complexity and the necessary number of training instances to train such a classifier. In this talk, we discuss Principal Component Analysis (PCA) and Functional Principal Component Analysis (FPCA), the most popular and widely used dimensionality reduction techniques for multivariate and functional data respectively. Further, we talk about a local FPCA based classifier, which is especially suited for hard classification framework. 
 </p>
 
-<p>
+<!-- <p>
     <a href="" target = "_blank">Slides</a>
-</p>
+</p> -->
 
 ---
 

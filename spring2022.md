@@ -24,6 +24,7 @@ subtitle:
     </p>
 </div>
 
+---
 
 <div id="Laplacianspectra">
     <p>29 April, 2022</p>

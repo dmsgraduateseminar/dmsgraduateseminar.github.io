@@ -13,6 +13,17 @@ subtitle:
     }
 </style>
 
+<div id="Methodofmoments">
+    <p>13 May, 2022</p>
+    <p><strong>Title: &nbsp;</strong>The Method of Moments and its Applications</p>
+    <p>
+        <strong>Spekaer: &nbsp;</strong> Mr. Jiten Kumbhakar, PhD Student, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> The method of moments is one of the well-known methods that can be used to construct a control and is very powerful in the analysis of the control of evolution partial differential equations. In this talk, we see some applications of this method: We first prove the null controllability of a controlled ordinary differential system in finite dimension. Finally, we prove that the heat equation in one dimension is null controllable by using a boundary control.
+    </p>
+</div>
+
 
 <div id="Laplacianspectra">
     <p>29 April, 2022</p>

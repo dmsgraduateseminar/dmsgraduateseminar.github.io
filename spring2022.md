@@ -13,6 +13,19 @@ subtitle:
     }
 </style>
 
+<div id="Exactcontrol">
+    <p>20 May, 2022</p>
+    <p><strong>Title: &nbsp;</strong>The moment method: Exact controllability of a mixed class coupled system</p>
+    <p>
+        <strong>Spekaer: &nbsp;</strong> Mr. Subrata Majumdar, PhD Student, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> This talk will be the continuation of the previous one presented by Jiten about the method of moments and its application. We will present how this method can be employed to study the boundary exact controllability of a hyperbolic-elliptic mixed class PDE.
+    </p>
+</div>
+
+---
+
 <div id="Methodofmoments">
     <p>13 May, 2022</p>
     <p><strong>Title: &nbsp;</strong>The Method of Moments and its Applications</p>

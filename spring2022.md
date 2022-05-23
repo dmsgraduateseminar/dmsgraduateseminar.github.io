@@ -13,6 +13,20 @@ subtitle:
     }
 </style>
 
+
+<div id="CalderonZygmund">
+    <p>27 May, 2022</p>
+    <p><strong>Title: &nbsp;</strong>On extension of Calderon-Zygmund type singular integrals and their commutators</p>
+    <p>
+        <strong>Spekaer: &nbsp;</strong> Mr. Joydwip Singh, PhD Student, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> In this talk we define an extension of Calderon-Zygmund type singular integrals and their commutators. We will talk about the estimates of these singular integrals and their commutators on Lebesgue spaces, Lipschitz spaces and Hardy spaces. From our estimates one can deduce analogous estimates for the classical Calderon-Zygmund type singular integrals and their commutators.
+    </p>
+</div>
+
+---
+
 <div id="Exactcontrol">
     <p>20 May, 2022</p>
     <p><strong>Title: &nbsp;</strong>The moment method: Exact controllability of a mixed class coupled system</p>
@@ -51,9 +65,9 @@ subtitle:
     </p>
 </div>
 
- <!-- <p>
-    <a href="/assets/slides/GSS_Talk_satwata.pdf" target = "_blank">Slides</a>
-    </p> -->
+ <p>
+    <a href="/assets/slides/GSS_Talk_Samiron.pdf" target = "_blank">Slides</a>
+    </p>
 
 ---
 

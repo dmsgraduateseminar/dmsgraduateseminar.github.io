@@ -14,11 +14,14 @@ subtitle:
 </style>
 
 
+
+
+
 <div id="CalderonZygmund">
     <p>27 May, 2022</p>
     <p><strong>Title: &nbsp;</strong>On extension of Calderon-Zygmund type singular integrals and their commutators</p>
     <p>
-        <strong>Spekaer: &nbsp;</strong> Mr. Joydwip Singh, PhD Student, IISER Kolkata
+        <strong>Speaker: &nbsp;</strong> Mr. Joydwip Singh, PhD Student, IISER Kolkata
     </p>
     <p class="text-justify">
         <strong>Abstract: &nbsp;</strong> In this talk we define an extension of Calderon-Zygmund type singular integrals and their commutators. We will talk about the estimates of these singular integrals and their commutators on Lebesgue spaces, Lipschitz spaces and Hardy spaces. From our estimates one can deduce analogous estimates for the classical Calderon-Zygmund type singular integrals and their commutators.
@@ -31,7 +34,7 @@ subtitle:
     <p>20 May, 2022</p>
     <p><strong>Title: &nbsp;</strong>The moment method: Exact controllability of a mixed class coupled system</p>
     <p>
-        <strong>Spekaer: &nbsp;</strong> Mr. Subrata Majumdar, PhD Student, IISER Kolkata
+        <strong>Speaker: &nbsp;</strong> Mr. Subrata Majumdar, PhD Student, IISER Kolkata
     </p>
     <p class="text-justify">
         <strong>Abstract: &nbsp;</strong> This talk will be the continuation of the previous one presented by Jiten about the method of moments and its application. We will present how this method can be employed to study the boundary exact controllability of a hyperbolic-elliptic mixed class PDE.
@@ -44,7 +47,7 @@ subtitle:
     <p>13 May, 2022</p>
     <p><strong>Title: &nbsp;</strong>The Method of Moments and its Applications</p>
     <p>
-        <strong>Spekaer: &nbsp;</strong> Mr. Jiten Kumbhakar, PhD Student, IISER Kolkata
+        <strong>Speaker: &nbsp;</strong> Mr. Jiten Kumbhakar, PhD Student, IISER Kolkata
     </p>
     <p class="text-justify">
         <strong>Abstract: &nbsp;</strong> The method of moments is one of the well-known methods that can be used to construct a control and is very powerful in the analysis of the control of evolution partial differential equations. In this talk, we see some applications of this method: We first prove the null controllability of a controlled ordinary differential system in finite dimension. Finally, we prove that the heat equation in one dimension is null controllable by using a boundary control.
@@ -57,7 +60,7 @@ subtitle:
     <p>29 April, 2022</p>
     <p><strong>Title: &nbsp;</strong>The Laplacian spectra of Commuting Graphs</p>
     <p>
-        <strong>Spekaer: &nbsp;</strong> Mr. Samiron Parui, PhD Student, IISER Kolkata
+        <strong>Speaker: &nbsp;</strong> Mr. Samiron Parui, PhD Student, IISER Kolkata
     </p>
     <p class="text-justify">
         <strong>Abstract: &nbsp;</strong> The commuting graph associated with a group G is a graph with G as the set of vertices and there is an edge between two vertices if they commute in group G.
@@ -75,7 +78,7 @@ subtitle:
     <p>15 April, 2022</p>
     <p><strong>Title: &nbsp;</strong>The Atiyah-Jänich Theorem</p>
     <p>
-        <strong>Spekaer: &nbsp;</strong> Mr. Satwata Hans, 5th Year BS-MS, IISER Kolkata
+        <strong>Speaker: &nbsp;</strong> Mr. Satwata Hans, 5th Year BS-MS, IISER Kolkata
     </p>
     <p class="text-justify">
         <strong>Abstract: &nbsp;</strong> The space of Fredholm operators over a separable Hilbert space $\mathcal{H}$ has been an important area of study in Functional Analysis. It has gained more relevance over time due to the significant works of Sir Michael Atiyah and multiple other mathematicians, which have focused on various topological and geometric connections to the Fredholm operators. In this talk, we will see a famous theorem called the Atiyah-Jänich Theorem, which states that the space of Fredholm operators gives an alternate characterization of the K-Theory of any compact Hausdorff space.

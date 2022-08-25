@@ -15,7 +15,7 @@ subtitle:
 
 <div id="Nullcontrol">
     <p>29 August, 2022</p>
-    <p><strong>Title: &nbsp;</strong>Null controllability of a system coupling $KS-KdV$ and transport equations</p>
+    <p><strong>Title: &nbsp;</strong>Biorthogonal family construction and its application to controllability</p>
     <p>
         <strong>Speaker: &nbsp;</strong> Mr. Manish Kumar, PhD Student, IISER Kolkata
     </p>

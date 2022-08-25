@@ -25,6 +25,7 @@ subtitle:
     </p>
 </div>
 
+---
 
 <div id="FermatsTheorem">
     <p>22 August, 2022</p>

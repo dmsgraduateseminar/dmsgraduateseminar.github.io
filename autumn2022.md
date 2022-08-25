@@ -13,6 +13,19 @@ subtitle:
     }
 </style>
 
+<div id="Nullcontrol">
+    <p>29 August, 2022</p>
+    <p><strong>Title: &nbsp;</strong>Null controllability of a system coupling $KS-KdV$ and transport equations</p>
+    <p>
+        <strong>Speaker: &nbsp;</strong> Mr. Manish Kumar, PhD Student, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> We all know about the orthogonal family from our basic linear algebra course but have you heard of Biorthogonal family?
+        The center of this talk will be to define it, and construct one such family for a particular family of complex exponential functions, along with its need to solve a moment problem and hence a control problem for a system.
+    </p>
+</div>
+
+
 <div id="FermatsTheorem">
     <p>22 August, 2022</p>
     <p><strong>Title: &nbsp;</strong>On The Fermat's Last Theorem Modulo a Prime</p>

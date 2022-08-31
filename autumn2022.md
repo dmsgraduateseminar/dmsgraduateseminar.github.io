@@ -13,6 +13,20 @@ subtitle:
     }
 </style>
 
+<div id="Representation">
+    <p>5 September, 2022</p>
+    <p><strong>Title: &nbsp;</strong>Classification of representation of $\mathfrak{sl}(2,\mathbb{C})$</p>
+    <p>
+        <strong>Speaker: &nbsp;</strong> Mr. Jitender Sharma, PhD Student, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> In this talk we will classify all the representation of $\mathfrak{sl}(2,\mathbb{C})$. We will see that all the representation comes from the Lie group $SU(2)$, group of special unitary matrices of order $2$.
+    </p>
+</div>
+
+
+---
+
 <div id="Nullcontrol">
     <p>29 August, 2022</p>
     <p><strong>Title: &nbsp;</strong>Biorthogonal family construction and its application to controllability</p>

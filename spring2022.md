@@ -28,6 +28,10 @@ subtitle:
     </p>
 </div>
 
+<p>
+    <a href="/assets/slides/GSS_Talk_Joydwip.pdf" target = "_blank">Slides</a>
+    </p>
+
 ---
 
 <div id="Exactcontrol">

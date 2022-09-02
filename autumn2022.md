@@ -39,6 +39,10 @@ subtitle:
     </p>
 </div>
 
+<!-- <p>
+    <a href="/assets/slides/GSS_Talk_Rajiv.pdf" target = "_blank">Slides</a>
+    </p> -->
+
 ---
 
 <div id="FermatsTheorem">
@@ -53,9 +57,9 @@ subtitle:
 </div>
 
 
- <!-- <p>
-    <a href="/assets/slides/GSS_Talk_satwata.pdf" target = "_blank">Slides</a>
-    </p> -->
+ <p>
+    <a href="/assets/slides/GSS_Talk_Rajiv.pdf" target = "_blank">Slides</a>
+    </p>
 
 
 ---

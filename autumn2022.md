@@ -14,7 +14,7 @@ subtitle:
 </style>
 
 <div id="Representation">
-    <p>5 September, 2022</p>
+    <p>12 September, 2022</p>
     <p><strong>Title: &nbsp;</strong>Classification of representation of $\mathfrak{sl}(2,\mathbb{C})$</p>
     <p>
         <strong>Speaker: &nbsp;</strong> Mr. Jitender Sharma, PhD Student, IISER Kolkata

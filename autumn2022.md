@@ -39,6 +39,9 @@ subtitle:
     </p>
 </div>
 
+<p>
+    <a href="/assets/slides/GSS_Talk_Jitender.pdf" target = "_blank">Slides</a>
+    </p>
 
 ---
 

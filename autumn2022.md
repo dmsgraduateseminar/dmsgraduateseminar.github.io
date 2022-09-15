@@ -13,6 +13,21 @@ subtitle:
     }
 </style>
 
+
+<div id="Goldbach">
+    <p>19 September, 2022</p>
+    <p><strong>Title: &nbsp;</strong>Sieve Methods and Switching principle</p>
+    <p>
+        <strong>Speaker: &nbsp;</strong> Mr. Habibur Rahaman, PhD Student, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> One of the famous unsolved problems in number theory is 'The Goldbach Conjecture'.  Though it is unsolved yet, the best result in this direction is Chen's theorem, which says that every sufficiently large even number can be written as a sum of a prime and an almost prime. In this talk, we discuss what is a general sieve and we will see the proof of Chen's theorem.
+    </p>
+</div>
+
+
+---
+
 <div id="Representation">
     <p>12 September, 2022</p>
     <p><strong>Title: &nbsp;</strong>Classification of representation of $\mathfrak{sl}(2,\mathbb{C})$</p>

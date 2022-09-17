@@ -16,7 +16,7 @@ subtitle:
 
 <div id="Goldbach">
     <p>19 September, 2022</p>
-    <p><strong>Title: &nbsp;</strong>Sieve Methods and Switching principle</p>
+    <p><strong>Title: &nbsp;</strong>On the Goldbach Conjecture</p>
     <p>
         <strong>Speaker: &nbsp;</strong> Mr. Habibur Rahaman, PhD Student, IISER Kolkata
     </p>
@@ -57,9 +57,9 @@ subtitle:
     </p>
 </div>
 
-<!-- <p>
-    <a href="/assets/slides/GSS_Talk_Rajiv.pdf" target = "_blank">Slides</a>
-    </p> -->
+<p>
+    <a href="/assets/slides/GSS_Talk_Manish.pdf" target = "_blank">Slides</a>
+    </p>
 
 ---
 

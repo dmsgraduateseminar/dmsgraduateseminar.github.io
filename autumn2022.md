@@ -21,7 +21,7 @@ subtitle:
         <strong>Speaker: &nbsp;</strong> Mr. Debanjit Mondal, PhD Student, IISER Kolkata
     </p>
     <p class="text-justify">
-        <strong>Abstract: &nbsp;</strong> According to Harman-Groban Theorem, near a hyperbolic equilibrium point $x_0$ the nonlinear system $\dot{x} = f(x)$ and  linear system $\dot{x}= Ax$, where $A=Df(x_0)$ has the same qualitative structure, i.e. 1st and 2nd system are topologically conjugate. In this talk we will see a proof of this theorem and using this theorem we will draw phase diagram of a nonlinear system. 
+        <strong>Abstract: &nbsp;</strong> According to Hartman-Grobman Theorem, near a hyperbolic equilibrium point $x_0$ the nonlinear system $\dot{x} = f(x)$ and  linear system $\dot{x}= Ax$, where $A=Df(x_0)$ has the same qualitative structure, i.e. 1st and 2nd system are topologically conjugate. In this talk we will see a proof of this theorem and using this theorem we will draw phase diagram of a nonlinear system. 
     </p>
 </div>
 

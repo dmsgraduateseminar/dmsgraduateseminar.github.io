@@ -14,6 +14,23 @@ subtitle:
 </style>
 
 
+<div id="Hartman-Grobman">
+    <p>26 September, 2022</p>
+    <p><strong>Title: &nbsp;</strong>On the Hartman-Grobman Theorem</p>
+    <p>
+        <strong>Speaker: &nbsp;</strong> Mr. Debanjit Mondal, PhD Student, IISER Kolkata
+    </p>
+    <p class="text-justify">
+        <strong>Abstract: &nbsp;</strong> According to Harman-Groban Theorem, near a hyperbolic equilibrium point $x_0$ the nonlinear system $\dot{x} = f(x)$ and  linear system $\dot{x}= Ax$, where $A=Df(x_0)$ has the same qualitative structure, i.e. 1st and 2nd system are topologically conjugate. In this talk we will see a proof of this theorem and using this theorem we will draw phase diagram of a nonlinear system. 
+    </p>
+</div>
+
+<!-- <p>
+    <a href="/assets/slides/GSS_Talk_Habibur.pdf" target = "_blank">Slides</a>
+    </p> -->
+
+---
+
 <div id="Goldbach">
     <p>19 September, 2022</p>
     <p><strong>Title: &nbsp;</strong>On the Goldbach Conjecture</p>
@@ -25,6 +42,9 @@ subtitle:
     </p>
 </div>
 
+<p>
+    <a href="/assets/slides/GSS_Talk_Habibur.pdf" target = "_blank">Slides</a>
+    </p>
 
 ---
 

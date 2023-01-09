@@ -14,14 +14,14 @@ subtitle:
 </style>
 
 
-<div id="Bayesian">
-    <p>14 November, 2022</p>
-    <p><strong>Title: &nbsp;</strong>Variational Inference: Ideas and Advancements</p>
+<div id="Ellipticcurves">
+    <p>10 January, 2023</p>
+    <p><strong>Title: &nbsp;</strong>Two Theorems on Elliptic Curves</p>
     <p>
-        <strong>Speaker: &nbsp;</strong> Mr. Ananyapam De, 5th Year BS-MS, IISER Kolkata
+        <strong>Speaker: &nbsp;</strong> Mr. Sayan Dutta, 4th Year BS-MS, IISER Kolkata
     </p>
     <p class="text-justify">
-        <strong>Abstract: &nbsp;</strong>  Intractable posteriors are a common hurdle in Bayesian inference and Probabilistic Machine Learning. Although MCMC methods are widely used to tackle this, they are notoriously slow. Variational inference is a technique which helps us circumvent this problem. I will introduce the problem of intractable posteriors, discuss the core idea of variational inference, optimization of the ELBO and the developments in this technique which make it more powerful and scalable.
+        <strong>Abstract: &nbsp;</strong>  This will be the second lecture in the mini course on Number Theory and Elliptic curves. We will be discussing the geometry of elliptic curves, and the proofs of the Nagell Lutz Theorem and Mordell’s Theorem. The talk mostly features elementary concepts that only require a surface level idea of group theory for appreciation.
     </p>
 </div>
 

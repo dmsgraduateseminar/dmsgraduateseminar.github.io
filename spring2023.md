@@ -21,7 +21,7 @@ subtitle:
         <strong>Speaker: &nbsp;</strong> Mr. Sayan Dutta, 4th Year BS-MS, IISER Kolkata
     </p>
     <p class="text-justify">
-        <strong>Abstract: &nbsp;</strong>  This will be the second lecture in the mini course on Number Theory and Elliptic curves. We will be discussing the geometry of elliptic curves, and the proofs of the Nagell Lutz Theorem and Mordell’s Theorem. The talk mostly features elementary concepts that only require a surface level idea of group theory for appreciation.
+        <strong>Abstract: &nbsp;</strong>  Elliptic curves form a major part of recent advancements in various fields of Number Theory. We will be discussing the geometry of elliptic curves, and the proofs of the Nagell Lutz Theorem and Mordell’s Theorem. The talk is quite elementary in flavour and only requires a surface level idea of groups and rings for appreciation.
     </p>
 </div>
 

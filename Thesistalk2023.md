@@ -25,9 +25,9 @@ subtitle:
     </p>
 </div>
 
-<!-- <p>
-    <a href="/assets/slides/GSS_Talk_Habibur.pdf" target = "_blank">Slides</a>
-</p> -->
+<p>
+    <a href="/assets/slides/GSS_Talk_Dakshes.pdf" target = "_blank">Slides</a>
+</p>
 
 ----
 
@@ -43,6 +43,11 @@ subtitle:
 
     </p>
 </div>
+
+
+<p>
+    <a href="/assets/slides/GSS_Talk_Dhruv.pdf" target = "_blank">Slides</a>
+</p>
 
 
 ---
